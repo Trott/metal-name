@@ -7,5 +7,5 @@ test('returns a random metal name', function (t) {
 });
 
 test('returns a two-part name', function (t) {
-	t.assert(metal().match(/^\w+ \w+$/));
+	t.assert(metal().indexOf(' ') !== -1);
 });
