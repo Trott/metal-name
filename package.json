@@ -1,0 +1,46 @@
+{
+  "name": "metal-name",
+  "version": "1.0.0",
+  "description": "Heavy metal band name generator",
+  "license": "MIT",
+  "repository": "Trott/metal-name",
+  "bin": {
+    "metal-name": "cli.js"
+  },
+  "author": {
+    "name": "Rich Trott",
+    "email": "rtrott@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js",
+    "cli.js",
+    "words.json"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "bin",
+    "heavy-metal",
+    "metal",
+    "word",
+    "words",
+    "list",
+    "array",
+    "random",
+    "rand"
+  ],
+  "dependencies": {
+    "lodash": "^3.3.0",
+    "meow": "^2.1.0"
+  },
+  "devDependencies": {
+    "ava": "0.0.4",
+    "precommit-hook": "^1.0.7"
+  }
+}
