@@ -1,6 +1,5 @@
 {
   "part1": [
-    "220",
     "44",
     "666",
     "667",
@@ -97,6 +96,7 @@
     "Night",
     "Nocturnal",
     "Nuclear",
+    "Obscene",
     "Occult",
     "Ozzy",
     "Pagan",
@@ -184,8 +184,9 @@
     "Digger",
     "Donut",
     "Doom",
-    "Enslaved",
+    "Enslavement",
     "Entrails",
+    "Eulogy"
     "Fate",
     "Fear",
     "Filth",
@@ -201,6 +202,7 @@
     "Guns",
     "Hammer",
     "Hearse",
+    "Hell",
     "Hoof",
     "Horde",
     "Hunter",
