@@ -15,7 +15,7 @@ $ npm install --save metal-name
 var metal = require('metal-name');
 
 metal();
-//=> 'Black Goat'
+//=> 'Twisted Vengeance'
 ```
 
 
@@ -39,7 +39,7 @@ $ metal-name --help
 
   Examples
     $ metal-name
-    Black Goat
+    Desecrated Glory
 ```
 
 ## License
