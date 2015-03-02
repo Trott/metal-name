@@ -7,7 +7,7 @@ meow({
 	help: [
 		'Examples',
 		'  $ metal-name',
-		'  Black Goat'
+		'  Desecrated Glory'
 	].join('\n')
 });
 
