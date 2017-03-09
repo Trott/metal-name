@@ -2,6 +2,9 @@
 var words = require('./words.json');
 var sample = require('lodash/collection/sample');
 
-module.exports = function () {
-	return sample(words.part1) + ' ' + sample(words.part2);
+module.exports = function (options = {}) {
+  if (! options.fragment) {
+  	return `${sample(words.start)} ${sample(words.end)}`;
+  }
+  return sample(words[options.fragment]);
 };

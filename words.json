@@ -1,5 +1,5 @@
 {
-  "part1": [
+  "start": [
     "666",
     "Alice",
     "Alien",
@@ -152,7 +152,7 @@
     "Wrathful",
     "Zombie"
   ],
-  "part2": [
+  "end": [
     "Abominator",
     "Aeroplane",
     "Agony",
