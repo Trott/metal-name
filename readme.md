@@ -16,16 +16,25 @@ var metal = require('metal-name');
 
 metal();
 //=> 'Twisted Vengeance'
+
+metal({ fragment: 'start'});
+//=> 'Twisted'
+
+metal({ fragment: 'end' });
+//=> 'Vengeance'
 ```
 
 
 ## API
 
-### metal()
+### metal([options])
 
 Type: `string`
 
 Random heavy metal band name.
+
+Options:
+* `fragment`: With value 'start' or 'end', generate only that part of the name
 
 
 ## CLI
