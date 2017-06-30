@@ -41,6 +41,7 @@
   },
   "devDependencies": {
     "ava": "0.0.4",
+    "jshint": "^2.9.5",
     "precommit-hook": "^1.0.7"
   }
 }
