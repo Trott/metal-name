@@ -1,6 +1,6 @@
 'use strict';
 var words = require('./words.json');
-var sample = require('lodash/collection/sample');
+var sample = require('lodash.sample');
 
 module.exports = function (options = {}) {
   if (! options.fragment) {

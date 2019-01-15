@@ -36,12 +36,12 @@
     "rand"
   ],
   "dependencies": {
-    "lodash": "^3.3.0",
+    "lodash.sample": "^4.2.1",
     "meow": "^2.1.0"
   },
   "devDependencies": {
     "ava": "0.0.4",
-    "jshint": "^2.9.5",
+    "jshint": "^2.9.7",
     "precommit-hook": "^1.0.7"
   }
 }
