@@ -1,4 +1,4 @@
-# metal-name [![Build Status](https://travis-ci.org/Trott/metal-name.svg?branch=master)](https://travis-ci.org/Trott/metal-name)
+# metal-name
 
 > Heavy metal band name generator
 
