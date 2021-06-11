@@ -11,9 +11,6 @@
     "name": "Rich Trott",
     "email": "rtrott@gmail.com"
   },
-  "engines": {
-    "node": ">=6.0.0"
-  },
   "scripts": {
     "test": "standard && c8 --check-coverage --lines 100 --functions 100 --branches 100 node test.js"
   },
