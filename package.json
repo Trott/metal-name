@@ -38,8 +38,8 @@
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
-    "ava": "^3.15.0",
-    "c8": "^7.3.4",
+    "ava": "^4.1.0",
+    "c8": "^7.11.0",
     "semantic-release": "^19.0.2",
     "standard": "^16.0.4"
   },
