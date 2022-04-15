@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/Trott/metal-name/compare/v2.1.0...v2.2.0) (2022-04-15)
+
+
+### Features
+
+* include TypeScript types ([6ac3e22](https://github.com/Trott/metal-name/commit/6ac3e223455f69f470626ccef18cdd47b2f87e9b))
+
 # [2.1.0](https://github.com/Trott/metal-name/compare/v2.0.0...v2.1.0) (2021-12-27)
 
 
