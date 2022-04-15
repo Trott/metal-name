@@ -1,5 +1,3 @@
 #!/usr/bin/env node
-'use strict'
-const metal = require('./')
-
-console.log(metal())
+import metal from './index.js';
+console.log(metal());
