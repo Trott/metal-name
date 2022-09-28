@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/Trott/metal-name/compare/v2.2.0...v2.3.0) (2022-09-28)
+
+
+### Features
+
+* add Doula and Maiden ([1700232](https://github.com/Trott/metal-name/commit/1700232723f0d9effa808cf58bd926ee324eff59))
+
 # [2.2.0](https://github.com/Trott/metal-name/compare/v2.1.0...v2.2.0) (2022-04-15)
 
 
