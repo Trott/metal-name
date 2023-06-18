@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/Trott/metal-name/compare/v2.3.0...v3.0.0) (2023-06-18)
+
+
+### chore
+
+* drop support for Node.js < 16.x ([0c7d564](https://github.com/Trott/metal-name/commit/0c7d564e81f005540b6645542086264f9c6ff765))
+
+
+### BREAKING CHANGES
+
+* Node.js 16.x or newer required
+
 # [2.3.0](https://github.com/Trott/metal-name/compare/v2.2.0...v2.3.0) (2022-09-28)
 
 
