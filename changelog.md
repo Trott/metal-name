@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/Trott/metal-name/compare/v3.0.0...v3.1.0) (2025-04-28)
+
+
+### Features
+
+* more words! ([e4bc2a5](https://github.com/Trott/metal-name/commit/e4bc2a535ce49f51f35aeaae1dc24147126ce052))
+
 # [3.0.0](https://github.com/Trott/metal-name/compare/v2.3.0...v3.0.0) (2023-06-18)
 
 
